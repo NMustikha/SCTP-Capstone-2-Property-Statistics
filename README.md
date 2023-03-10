@@ -13,7 +13,7 @@ The main dataset used in this capstone is the CEA Salespersons' Property Transac
 
 The secondary dataset is the CEA Salesperson Information which serves as supplementary information. It mainly consists of each property agent's license registration and expiry as well as the agency they are working for. The dataset has a size of 35,133 rows.
 
-##### **Main assumption made on the main dataset:**
+#### **Main assumption made on the main dataset:**
 Property agents can close multiple transactions in the same month within the same location and represent parties of the same and/or different category (i.e. seller, buyer). For example, Agent A closed 2 transactions in January 2021 where both are located in Yishun and both clients are buyers.
 
 [![ERD](https://i.gyazo.com/28e43fce451060263a8277479e4990bf.png)](https://gyazo.com/28e43fce451060263a8277479e4990bf)
@@ -33,8 +33,8 @@ Probably with the onset of the pandemic and delay in BTO flats, home owners turn
 **3. Districts 9 and 10 top the chart as most popular locations with high counts of condominium transactions**
 There is a dominance of that specific property type in those districts which happen to be in the affluent central region. Those districts are known as "high end" due to locations such as Orchard, Cainhill, Bukit Timah, etc and they are known for private properties rather than residential estates.
 
-##### **Other Comments**
+#### Other Comments
 The main dataset only includes property type where residential estates are categoried as HDB. By including the different housing types (i.e. 3 room), a more holistic analysis could be done by having the transaction breakdown of each housing type to better understand the market. The possibility of including the sales of each transaction also the analysis of the overall market value.
 
-##### Connect with Me!
+#### Connect with Me!
 Like my work? Send me a DM on [Linkedin!](https://sg.linkedin.com/in/noor-mustikha-nk)
