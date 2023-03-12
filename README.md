@@ -19,11 +19,12 @@ Property agents can close multiple transactions in the same month within the sam
 [![ERD](https://i.gyazo.com/28e43fce451060263a8277479e4990bf.png)](https://gyazo.com/28e43fce451060263a8277479e4990bf)
 [![SCHEMA](https://i.gyazo.com/04294690ee03b56048aefbce5c874701.png)](https://gyazo.com/04294690ee03b56048aefbce5c874701)
 
-#### Description of Dashboard
-The dashboard mainly focuses on the percentage on time delivery by shipment with the following as secondary information: total orders by shipment, total weight by shipment, total expenditure by shipment, geographical chart of countries, total orders by month and total sum of items by month.
+#### Data Cleaning and Transformation
+Mainly used views to clean the data such as changing data types as well as data manipulation such as inner join and creating other queries for data analysis. Using views is a useful and safe way to manipulate data without editing on the actual dataset. This way, the actual dataset is still available to import if there's an error.
 
 #### Observations & Insights
 Go to the [presentation slides]( https://github.com/NMustikha/SCTP-Capstone-2-Property-Statistics/blob/main/Capstone%202%20-%20Property%20Statistics.pptx) for more information (includes SQL codes):
+######
 **1. For property type in Singapore, HDB and Condominiums have around 5% difference in total number of transactions**
 Condos are very popular in recents years (2020s) with a steep increase to compensate its non existent or low transaction in the 2010s as compared to HDB steady increase over the 2010s and 2020s.
 
