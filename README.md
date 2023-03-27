@@ -26,12 +26,15 @@ Mainly used views to clean the data such as changing data types as well as data 
 Go to the [presentation slides]( https://github.com/NMustikha/SCTP-Capstone-2-Property-Statistics/blob/main/Capstone%202%20-%20Property%20Statistics.pptx) for more information (includes SQL codes):
 ######
 **1. For property type in Singapore, HDB and Condominiums have around 5% difference in total number of transactions**
+
 Condos are very popular in recents years (2020s) with a steep increase to compensate its non existent or low transaction in the 2010s as compared to HDB steady increase over the 2010s and 2020s.
 
 **2. High count for resale flats (both buyers and sellers) as well as whole rental**
+
 Probably with the onset of the pandemic and delay in BTO flats, home owners turn to the resale market. Also, a possibility that whole rental comes from condo owners who stay in HDB but generate passive income through rental.
 
 **3. Districts 9 and 10 top the chart as most popular locations with high counts of condominium transactions**
+
 There is a dominance of that specific property type in those districts which happen to be in the affluent central region. Those districts are known as "high end" due to locations such as Orchard, Cainhill, Bukit Timah, etc and they are known for private properties rather than residential estates.
 
 #### Other Comments
